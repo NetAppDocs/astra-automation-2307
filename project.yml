@@ -3,11 +3,11 @@ settings:
   name: Astra Automation
   internal:
     pdf_enabled: true
-    api_enabled: false
+    api_enabled: true
   prod:
     pdf_enabled: true
     harmony_enabled: false
-    api_enabled: false
+    api_enabled: true
   rss_page: "rn/whats_new.html"
   versions:
     - version-number: "23.07"
