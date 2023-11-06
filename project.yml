@@ -24,7 +24,7 @@ settings:
       url: https://docs.netapp.com/us-en/astra-automation-2112/
 sidebar:
   entries:
-    - title: Astra Control Automation docs
+    - title: Astra Control Automation 23.07 docs
       url: /index.html
     - section: rn
     - section: intro
