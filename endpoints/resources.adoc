@@ -75,11 +75,11 @@ The core resource endpoints provide the foundational services needed to establis
 |The hook source resources represent the actual source code used with an execution hook. Separating the source code from the execution control has several benefits such as allowing the scripts to be shared.
 
 |LDAP group
-|*22.11*
+|22.11
 |You can list the groups within the configured LDAP server. Access to the LDAP groups is read-only.
 
 |LDAP user
-|*22.11*
+|22.11
 |You can list the users within the configured LDAP server. Access to the LDAP users is read-only.
 
 |License
@@ -115,7 +115,7 @@ The core resource endpoints provide the foundational services needed to establis
 |The subscription resources represent the active subscriptions for an Astra account.
 
 |Task
-|*22.11*
+|22.11
 |The task resources provide read-only access to managed task and can be used to display the status of the internal long-running tasks.
 
 |Token
@@ -177,7 +177,7 @@ The topology resource endpoints provide access to the unmanaged applications and
 |Description
 
 |API resource
-|*22.11*
+|22.11
 |The API resource endpoints provide read-only access to the Kubernetes resources in a specific managed cluster.
 
 |App
