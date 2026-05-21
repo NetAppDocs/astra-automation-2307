@@ -1,0 +1,15 @@
+---
+sidebar: sidebar
+api: true
+explorer: false
+permalink: 'reference/cluster_endpoints.html'
+summary: 'Astra API (ACS) cluster endpoints'
+---
+
+= Astra API (ACS) cluster endpoints
+
+
+
+The Cluster API represents unmanaged Kubernetes clusters.
+
+

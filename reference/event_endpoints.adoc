@@ -1,0 +1,15 @@
+---
+sidebar: sidebar
+api: true
+explorer: false
+permalink: 'reference/event_endpoints.html'
+summary: 'Astra API (ACS) event endpoints'
+---
+
+= Astra API (ACS) event endpoints
+
+
+
+The Event API provides access to events occurring in the system.
+
+

@@ -1,0 +1,15 @@
+---
+sidebar: sidebar
+api: true
+explorer: false
+permalink: 'reference/metrics_endpoints.html'
+summary: 'Astra API (ACS) metrics endpoints'
+---
+
+= Astra API (ACS) metrics endpoints
+
+
+
+The Metrics API represents metrics associated with a given account.
+
+
