@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) hook source endpoints'
 ---
 
 = Astra API (ACS) hook source endpoints
+:imagesdir: ../media/
 
 
 

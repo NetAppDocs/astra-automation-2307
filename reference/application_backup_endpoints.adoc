@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) application backup endpoints'
 ---
 
 = Astra API (ACS) application backup endpoints
+:imagesdir: ../media/
 
 
 

@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) certificate endpoints'
 ---
 
 = Astra API (ACS) certificate endpoints
+:imagesdir: ../media/
 
 
 

@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) account endpoints'
 ---
 
 = Astra API (ACS) account endpoints
+:imagesdir: ../media/
 
 
 

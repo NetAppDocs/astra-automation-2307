@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) overview'
 ---
 
 = Astra API (ACS) overview
+:imagesdir: ../media/
 
 
 
