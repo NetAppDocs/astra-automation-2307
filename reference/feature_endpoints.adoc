@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) feature endpoints'
 ---
 
 = Astra API (ACS) feature endpoints
+:imagesdir: ../media/
 
 
 

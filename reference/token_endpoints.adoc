@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) token endpoints'
 ---
 
 = Astra API (ACS) token endpoints
+:imagesdir: ../media/
 
 
 

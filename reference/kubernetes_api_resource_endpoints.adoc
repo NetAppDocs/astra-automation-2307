@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) kubernetes API resource endpoints'
 ---
 
 = Astra API (ACS) kubernetes API resource endpoints
+:imagesdir: ../media/
 
 
 
