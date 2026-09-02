@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) entitlement endpoints'
 ---
 
 = Astra API (ACS) entitlement endpoints
+:imagesdir: ../media/
 
 
 

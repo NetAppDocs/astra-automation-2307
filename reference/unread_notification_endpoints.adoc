@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) unread notification endpoints'
 ---
 
 = Astra API (ACS) unread notification endpoints
+:imagesdir: ../media/
 
 
 

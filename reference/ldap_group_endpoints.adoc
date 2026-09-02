@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) LDAP group endpoints'
 ---
 
 = Astra API (ACS) LDAP group endpoints
+:imagesdir: ../media/
 
 
 

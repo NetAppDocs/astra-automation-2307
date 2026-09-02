@@ -7,6 +7,7 @@ summary: 'Astra API (ACS) cluster node endpoints'
 ---
 
 = Astra API (ACS) cluster node endpoints
+:imagesdir: ../media/
 
 
 
